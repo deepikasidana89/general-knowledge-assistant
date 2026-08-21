@@ -1,0 +1,11 @@
+{
+  "capability": "uses_llm",
+  "expected_verdict": "VERIFIED",
+  "application_purpose": "Answers general knowledge questions",
+  "evidence": [
+    "Model client import",
+    "Client construction",
+    "Responses API invocation",
+    "Invocation connected to the question-answering function"
+  ]
+}
